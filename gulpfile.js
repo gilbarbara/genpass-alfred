@@ -10,7 +10,7 @@ gulp.on('err', function (e) {
 });
 
 gulp.task('copy', function () {
-    return gulp.src(['info.plist', 'generator.php', 'icon.png'])
+    return gulp.src(['info.plist', 'genpass.sh', 'icon.png'])
         .pipe(gulp.dest('dist'));
 });
 
