@@ -6,4 +6,4 @@ Generate password from string with Alfred 2.
 
 ## Getting Started
 
-You can download this with [packal](http://www.packal.org/system/files/workflow-files/org.kollectiv.genpass/workflow/genpass.alfredworkflow) for easy updates.
+You can download this with [packal](https://github.com/packal/repository/blob/master/org.kollectiv.genpass/genpass.alfredworkflow) for easy updates.
